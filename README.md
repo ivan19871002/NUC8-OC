@@ -11,7 +11,7 @@
 * 三码已清，自行更换三码。
 
 * --240924:  OC更新到1.0.1，无痛升级14.7,修改config，关闭intel网卡，支持博通网卡，添加对应kext支持，取消sd卡支持，本人设备硬改博通网卡
-  开机之后安装https://github.com/dortania/OpenCore-Legacy-Patcher/releases  使用oclp注入即可
+  开机之后安装https://github.com/dortania/OpenCore-Legacy-Patcher/releases  使用oclp注入之后，重启reset nvm 再开机
 * --240806:  OC更新到1.0.1，无痛升级14.6。
 * --240514:  无痛升级14.5。
 * --240510:  OC更新到1.0.0。
